@@ -6,10 +6,10 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Taiwan", TVBS新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679364849/ei/kb4YZJzHE5nTkga1uI24DA/ip/138.91.227.58/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOT98EZesf0LQYyaCojg3T6VLZD4WFxu45Wp1B4cq9GQCIAruXmXnWqsDp1bgYW44zfd6KtcmlgrcqVaA6pW2Q67D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679368327/ei/J8wYZIdE1d2W7w_LlqvAAw/ip/52.171.137.248/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/tx/24470262/txs/24470261%2C24470262%2C24470263%2C24470264%2C24470265%2C24470266%2C24470267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOuN-u9CAVXTy5BFDA3OYViTnFofKUUWGRh5u0X6Jz7WAiAUtyghdBd_xcqcesiT2l0BHLWpQ4Q_FuRn2vN4etI5Dg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan", 台視新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679364849/ei/kb4YZJmpMZeCsfIP2JOQkA0/ip/138.91.227.58/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI0I9s1LokfD0_KCuQyVNBuQs19NO4LbXQl4JiNEFsYHAiEAzL7Bgm_mF9u0kT5xMxvcNdegbQ13A_6qH1Tn6yQZaGo%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679368327/ei/J8wYZPDgJPOlir4Py-msiAk/ip/52.171.137.248/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIiG4-JDqcZqZrA9pSQ1ae1H-6lOudWBKK6PT2ri5lFgCIQCMR2lt2HqfviDbd0VNf51u_JOIVgQ6L89LZAi7dplzzw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan", 民視新聞
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -18,10 +18,10 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Us", ABC News (US)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679364852/ei/k74YZJKbOdmRkwbqwYrYDA/ip/138.91.227.58/id/w_Ma8oQLmSM.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJSsuTeAPbih8DWFl8rRml0ZDFsT34cqTSx3vK9Q4YW4CICkpEcQvsUtfqP8gSLwT-zGIil8X9YeIJ40Ua09Ymbs_/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679368330/ei/KswYZMjrK--Vir4PidyrwAk/ip/52.171.137.248/id/w_Ma8oQLmSM.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIga7LyskqhSlIpbUC3jCjBnhU2-T0fZ914kQuGDTcLmP8CIQD28Wn0S_dYHI1wW7o08iecY0qZTB-G2yZpmM3DqnJ0Qw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Singapore", CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679364852/ei/lL4YZLm9ItSgkgan-Z_4BA/ip/138.91.227.58/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMScOi5HHEyn0c82v8cR40eORqX8rDaWPD82NItTX9CoAiEA5Aj92Kl1JeHR3m9OhzVDWU9Qh8WNpG5AsRVfLgdQXzk%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679368331/ei/K8wYZMO7EIP_2_gPqLudyA0/ip/52.171.137.248/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJkaFHn-1jpkGNgSV1svTcd6XebmQbRPQN-XuzgokNgnAiBM1Bmw32jKTVKj6FC9NFEOWlwauNTpdA-2ww4OVg2xzA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Germany", DW
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Malaysia", Astro AWANI
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679364854/ei/lr4YZNj0Jc-8kwbWx4DIDw/ip/138.91.227.58/id/zLu0wfp6bgw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJdiOC1-SufAvOJJv28OtP5ZagP6voY6nlpZlhgRxOIkCIQDGmaGX1KoEjLcZM8Hl7xcg90B1GC3MdB88oYiH9L5dLQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679368334/ei/LswYZL2DF9vmlu8PloGcoAc/ip/52.171.137.248/id/zLu0wfp6bgw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANECvJYUDfdWEcXQzgPUzCcAmc0P0f0LFBM503S-TGw0AiA0IcXRUIxBa7zzZBftb79UUV2XdefyZO4-Rd9Juz_e8A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="France", France 24 English
 https://www.youtube.com/watch?v=1oh9IEwBbFY
