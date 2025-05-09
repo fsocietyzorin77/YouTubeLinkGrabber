@@ -6,10 +6,10 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Taiwan", TVBS新聞
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746818949/ei/JQMeaL2NDu-_kucPhvun4Qc/ip/74.249.20.130/id/2mCSYvcfhtc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AecWEAa_fWMGtqZkT_StyIDbv2YNZSRd6ii_VfD5tZHx6MNU0URsOIwdXATIgvxMpdbOC2K4jJCQlcDA/spc/wk1kZnk2Aart4vi-pWa8UeMKKFY3EKDBbt9dI1tZgzi36CCz-Z9T8jqzXffVHrk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbPAos5mBSHwU4KUZ6QXyvCTGvIYcOWNwswKwQA49g1MCIFQOjaJAYVg9GlfRdZGxN-TlmyxlvsMO6X7h3MyudwQ-/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan", 台視新聞
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746818949/ei/JQMeaL3dOszDkucPx5XCgQg/ip/74.249.20.130/id/xL0ch83RAK8.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYCpqOfyWvxmKpFwlYKL5RmYQZwAQe_T7qiwvPrzYaKTbVdC94yExo68kF0vglWJJKtNH9Bljn2/spc/wk1kZsAn7UuVj7oBldbkIEc9IBW36IKb4q-M0fw0K6sVzgqHlgB8jz2P0QIcY3E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgM-WSyYSyMiIvuO_wPKcLhysxmIwL_m18NOiVKFcBKHYCIHK8nwzo4CNB7axm2vmybvvTuEoEvlr-LHQiLg9s4s9I/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan", 民視新聞
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Singapore", CNA
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746818951/ei/JwMeaPrcLaGBkucPqfKf6Ac/ip/74.249.20.130/id/XWq5kBlakcQ.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZaf5M8oMe_UdG3bkoiLPTAMYKaZzkUUqOj3i1QgEG0_edK3RXJdz9MIq4cuKnXEzdj0x3zqffK/spc/wk1kZnZ86VWV6h70EDfNUB0IScpHkcbvbPA851MH0VdnfU9z9upK-BXt9XjKLBM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfkcUCjStNR9GeNc1yv8ilkTjsW6Nk4OUBcQ2cqP5Q9ECIQCwWfJtKSbHv0sM1dVJ_vVHaPh01qU1ue4iCnygzCn1mg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Germany", DW
 https://www.youtube.com/watch?v=1oh9IEwBbFY
